@@ -311,7 +311,8 @@
                     <div class="text-center text-md-right mr-md-3 mb-4 mb-md-0">
                         <img class="img-fluid mb-4" src="img/TP1_4593.JPG" alt="" style="width: 300px;">
                         <h4 class="mb-3">Holy Matrimony</h4>
-                        <p class="mb-2">GKMI Sola Gratia, Jl. Sompok Lama No.56-58, Semarang </p>
+                        <p class="mb-2">GKMI Sola Gratia</p>
+                        <p class="mb-2">Jl. Sompok Lama No.56-58, Semarang </p>
                         <p class="mb-0">09.30 WIB</p>
                     </div>
                 </div>
@@ -319,7 +320,8 @@
                     <div class="text-center text-md-left ml-md-3">
                         <img class="img-fluid mb-4" src="img/TP1_4815.JPG" alt="" style="width: 300px;">
                         <h4 class="mb-3">Reception</h4>
-                        <p class="mb-2">Sixteen8, Jl. Ki Mangunsarkoro No.38, Semarang</p>
+                        <p class="mb-2">Sixteen 8</p>
+                        <p class="mb-2">Jl. Ki Mangunsarkoro No.38, Semarang</p>
                         <p class="mb-0">12.00 WIB</p>
                     </div>
                 </div>
