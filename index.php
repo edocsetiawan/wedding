@@ -27,6 +27,19 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
+        <?php
+            include('koneksi.php');
+            $row = mysqli_fetch_array($query);
+            if(empty($row)){
+                 // Redirect ke halaman 404
+                header("HTTP/1.0 404 Not Found");
+                // Redirect ke halaman not found
+                header("Location: /404.php");
+                exit(); // Pastikan script berhenti di sini
+            }else{
+                
+            }  
+        ?>
     <audio id="watchButton" src="asset/backsound.mp3" preload="auto" allow="autoplay" ></audio>
     <!-- Navbar Start -->
     <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
@@ -50,7 +63,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Edo & Monike</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear  </h3>
+                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
@@ -66,7 +79,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Edo & Monike</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear  </h3>
+                            <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
@@ -82,7 +95,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Edo & Monike</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear  </h3>
+                            <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
