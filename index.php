@@ -63,7 +63,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Edo & Monike</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
+                                <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
@@ -79,7 +79,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Edo & Monike</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                            <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
+                                <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
@@ -95,7 +95,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Edo & Monike</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                            <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
+                                <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
