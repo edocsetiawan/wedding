@@ -67,7 +67,7 @@
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
-                                data-src="https://www.youtube.com/watch?v=N_U4HI90_8o" data-target="#videoModal">
+                                data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
                                 <span></span>
                             </button>
                         </div>
@@ -83,7 +83,7 @@
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
-                                data-src="https://www.youtube.com/watch?v=N_U4HI90_8o" data-target="#videoModal">
+                                data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
                                 <span></span>
                             </button>
                         </div>
@@ -99,7 +99,7 @@
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
-                                data-src="https://www.youtube.com/watch?v=N_U4HI90_8o" data-target="#videoModal">
+                                data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
                                 <span></span>
                             </button>
                         </div>
