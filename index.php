@@ -325,7 +325,7 @@
                         <p class="mb-2">GKMI Sola Gratia</p>
                         <p class="mb-2">Jl. Sompok Lama No.56-58, Semarang </p>
                         <p class="mb-0">09.30 WIB</p>
-                        <p href="https://g.co/kgs/zs5G6G6" class="mb-0">Location</p>
+                        <a class="mb-5" href="https://g.co/kgs/zs5G6G6" class="mb-0" style="font-size:30px;color:blue">Location</a>
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -335,7 +335,7 @@
                         <p class="mb-2">Sixteen 8</p>
                         <p class="mb-2">Jl. Ki Mangunsarkoro No.38, Semarang</p>
                         <p class="mb-0">12.00 WIB</p>
-                        <p href="https://g.co/kgs/bFu6m5F" class="mb-0">Location</p>
+                        <a class="mb-5" href="https://g.co/kgs/bFu6m5F" class="mb-0" style="font-size:30px;color:blue">Location</a>
                     </div>
                 </div>
             </div>
