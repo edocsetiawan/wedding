@@ -66,10 +66,10 @@
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
-                            <button type="button" class="btn-play mx-auto" data-toggle="modal"
+                            <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
                                 <span></span>
-                            </button>
+                            </button> -->
                         </div>
                     </div>
                 </div>
@@ -82,10 +82,10 @@
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
-                            <button type="button" class="btn-play mx-auto" data-toggle="modal"
+                            <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
                                 <span></span>
-                            </button>
+                            </button> -->
                         </div>
                     </div>
                 </div>
@@ -98,10 +98,10 @@
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
                             </div>
-                            <button type="button" class="btn-play mx-auto" data-toggle="modal"
+                            <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
                                 <span></span>
-                            </button>
+                            </button> -->
                         </div>
                     </div>
                 </div>                
@@ -292,6 +292,17 @@
     </div>
     <!-- Gallery End -->
 
+        <div class="container-fluid py-5" id="rsvp">
+        <div class="container py-5">
+            <div class="section-title position-relative text-center">
+                <h6 class="font-secondary display-4">Video</h6>
+                <i class="far fa-heart text-dark"></i>
+            </div>
+            <div class="row justify-content-center">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
 
     <!-- Event Start -->
     <div class="container-fluid py-5" id="event">
