@@ -63,7 +63,6 @@
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
-                                <h1 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">19 Oktober 2024</h1>
                             </div>
                             <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
@@ -80,7 +79,6 @@
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
-                                <h1 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">19 Oktober 2024</h1>
                             </div>
                             <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
@@ -97,7 +95,6 @@
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
-                                <h1 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">19 Oktober 2024</h1>
                             </div>
                             <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
@@ -325,7 +322,7 @@
                         <h4 class="mb-3">Holy Matrimony</h4>
                         <p class="mb-2">GKMI Sola Gratia</p>
                         <p class="mb-2">Jl. Sompok Lama No.56-58, Semarang </p>
-                        <p class="mb-0">09.30 WIB</p>
+                        <p class="mb-0">Saturday, 19 Oktober 2024 09.30 WIB</p>
                         <a class="mb-5" href="https://g.co/kgs/zs5G6G6" class="mb-0" style="font-size:30px;color:blue">Location</a>
                     </div>
                 </div>
@@ -335,7 +332,7 @@
                         <h4 class="mb-3">Reception</h4>
                         <p class="mb-2">Sixteen 8</p>
                         <p class="mb-2">Jl. Ki Mangunsarkoro No.38, Semarang</p>
-                        <p class="mb-0">12.00 WIB</p>
+                        <p class="mb-0">Saturday, 19 Oktober 2024 09.30 WIB</p>
                         <a class="mb-5" href="https://g.co/kgs/bFu6m5F" class="mb-0" style="font-size:30px;color:blue">Location</a>
                     </div>
                 </div>
