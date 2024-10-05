@@ -31,11 +31,9 @@
             include('koneksi.php');
             $row = mysqli_fetch_array($query);
             if(empty($row)){
-                 // Redirect ke halaman 404
                 header("HTTP/1.0 404 Not Found");
-                // Redirect ke halaman not found
                 header("Location: /404.php");
-                exit(); // Pastikan script berhenti di sini
+                exit();
             }else{
                 
             }  
@@ -65,6 +63,7 @@
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
+                                <h1 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">19 Oktober 2024</h1>
                             </div>
                             <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
@@ -81,6 +80,7 @@
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
+                                <h1 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">19 Oktober 2024</h1>
                             </div>
                             <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
@@ -97,6 +97,7 @@
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
                                 <h3 class="text font-weight-normal text-white m-0" style="letter-spacing: 2px;">Dear <?php echo $row['name']; ?> </h3>
                                 <h2 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">We're getting married</h2>
+                                <h1 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">19 Oktober 2024</h1>
                             </div>
                             <!-- <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/N_U4HI90_8o?si=v8uGZQ8J3zULqEqN&amp;controls=0" data-target="#videoModal">
